@@ -1,0 +1,26 @@
+#logo {
+  max-width: 800px;
+  margin: auto;
+  margin-top: auto;
+  margin-bottom: auto;
+}
+
+#header {
+  position: relative;
+  top: 0px;
+}
+
+#footer {
+  position: absolute;
+  bottom: 0px;
+}
+
+.left {
+  position: absolute;
+  left: 0px;
+}
+
+.right {
+  position: absolute;
+  right: 0px;
+}
